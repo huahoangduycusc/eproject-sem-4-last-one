@@ -6,3 +6,5 @@ Người dùng có thể quản lý tài khoản cá nhân, xem lịch sử mua 
 Admin có thể thống kê và quản lý bài hát, người dùng, hóa đơn của khách hàng vv.
 
 Link video demo: https://www.youtube.com/watch?v=kOinNkijTQ8
+
+<a href="https://ibb.co/5RyScyM"><img src="https://i.ibb.co/VqZzBZj/Screenshot-546.png" alt="Screenshot-546" border="0"></a>
