@@ -14,3 +14,5 @@ Link video demo: https://www.youtube.com/watch?v=kOinNkijTQ8
 <a href="https://ibb.co/S0hQTp1"><img src="https://i.ibb.co/q9t0Gw4/Screenshot-602.png" alt="Screenshot-602" border="0"></a>
 <a href="https://ibb.co/C79YzSj"><img src="https://i.ibb.co/pzKMxkH/Screenshot-603.png" alt="Screenshot-603" border="0"></a>
 <a href="https://ibb.co/fnkNYww"><img src="https://i.ibb.co/D89MD22/Screenshot-604.png" alt="Screenshot-604" border="0"></a>
+<a href="https://ibb.co/yNVtPwY"><img src="https://i.ibb.co/hgCb9PZ/Screenshot-605.png" alt="Screenshot-605" border="0"></a>
+<a href="https://ibb.co/vxVfkFm"><img src="https://i.ibb.co/8DNG9C2/Screenshot-606.png" alt="Screenshot-606" border="0"></a>
