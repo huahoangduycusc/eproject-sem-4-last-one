@@ -1,3 +1,7 @@
+Music Shop Online
+
+Công nghệ sử dụng: JAVA WEB (EJB, JSP, Servlet, JSF), MS SQL SERVER, CSS, HTML, JavaScript
+
 Đây là đồ án học kỳ 4 môn JAVA của mình, trong đồ án này mình đóng vai trò Developer và Team Leader của nhóm. 
 
 Trang web này cho phép người dùng đăng ký tài khoản để nghe và mua nhạc trực tuyến và thanh toán qua cổng ngân hàng, vì project chưa mang tính thương mai nên sử dụng cổng thanh toán demo. 
